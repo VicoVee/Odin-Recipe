@@ -1,0 +1,22 @@
+body {
+    background-color: azure;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;   
+    font-size: 24px;
+}
+
+h1 {
+    color:darkblue;
+}
+
+h2 {
+    font-style:italic;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color:darkcyan;
+}
